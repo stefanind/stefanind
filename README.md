@@ -1,6 +1,6 @@
 I'm Stefan, and I want to spend the rest of my life at the intersection of AI research and computing optimization.  
 
-I am currently doing a Master's in Data Science (graduating June 2026), specializing in Machine Learning. I spend all my extra time learning systems-level and performance AI engineering, i.e., understanding how memory, runtimes, and low-level execution (from C/C++ and CUDA up through Python and PyTorch internals) work together to build faster and more efficient models.
+I am currently doing a Master's in Data Science (graduating June 2026), specializing in Machine Learning. I spend all my extra time learning about LLMs, and systems-level and performance AI engineering, i.e., understanding how memory, runtimes, and low-level execution (from C/C++ and CUDA up through Python and PyTorch internals) work together to build faster and more efficient models.
 
 Currently looking for work for when I graduate in June!
 
