@@ -6,7 +6,7 @@ I am also conducting some research by investigating representational priors for 
 
 Currently looking for work for when I graduate in June!
 
-## Projects
+## Personal Projects
 - Built a GPT with modern LLM architecture (e.g., SwiGLU, MoE, RMSNorm, KV-cache, RoPE, GQA/MQA) because I wanted to understand everything about how LLM's work. 
   - Next add-on: FSDP for training across GPUs.
   - Also needing to set up the modern architecture for a new training run. Haven't yet thought about the training data.
