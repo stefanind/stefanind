@@ -2,7 +2,7 @@ I'm Stefan, and I want to spend the rest of my life at the intersection of Data 
 
 I am currently doing a Master's in Data Science (graduating June 2026), specializing in Machine Learning. I spend all my extra time learning about LLMs, world models, and systems-level and performance AI engineering.
 
-I am also conducting some research by investigating representational priors for efficient transformer training. Basically, I am trying to extract a prior from a trained model and/or data to be used as a basis for new models to reduce training time and help model convergence. 
+I am also conducting some research by investigating representational priors for efficient transformer training. Basically, I am trying to extract a prior from a trained model to be used as a basis for new models to reduce training time and help model convergence. 
 
 Currently looking for work for when I graduate in June!
 
