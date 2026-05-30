@@ -2,7 +2,7 @@ I'm Stefan, and I want to spend the rest of my life at the intersection of Data 
 
 I am currently doing a Master's in Data Science (graduating June 2026), specializing in Experimental Design & Machine Learning. I spend all my extra time learning about research in LLMs, world models, and systems-level & performance AI engineering.
 
-I am also conducting some research by investigating representational priors for optimization. Basically, I am trying to extract a prior from a trained model (knowledge distillation) to be used as a basis for new models to reduce training time and help model convergence. 
+I am also conducting some research by investigating representational priors for optimization. Basically, I am trying to extract a prior from a trained model (knowledge distillation) to be used as a basis for new models to reduce training time and help model convergence. My main approach to this is to investigate model internals of a teacher to figure out the best signal to pass on to the student. 
 
 Currently looking for work for when I graduate in June!
 
