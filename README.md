@@ -7,6 +7,7 @@ I am also conducting some research by investigating representational priors for 
 Currently looking for work for when I graduate in June!
 
 ## Personal Projects
+- Built my own personal AI "twin".
 - Conducting research in representational priors for efficient language model training and implementing the strategies in the OpenAI Parameter Golf competition.
   - Currently extending and transferring this research further into another repo -> research-optimization-priors
 - Built a beginner ML deployment repository to help others learn the fundamentals of using open source tools for production-style ML. 
