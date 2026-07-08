@@ -2,10 +2,11 @@ I'm Stefan, and I want to spend the rest of my life at the intersection of Data 
 
 I have just finished a Master's in Data Science (graduated June 2026), specializing in Experimental Design & Machine Learning. I spend all my extra time learning about research in LLMs, applications of AI, and systems-level & performance AI engineering.
 
-I am also conducting some research by investigating representational priors for optimization. Basically, I am trying to extract a prior from a trained model (knowledge distillation) to be used as a basis for new models to reduce training time and help model convergence. My main approach to this is to investigate model internals of a teacher to figure out the best signal to pass on to the student. 
+I am also conducting some research by investigating representational priors for optimization & in mechanistic interpretability. 
 
 ## Personal Projects
 - Built my own personal AI "twin".
+- Conducting research in mechanistic interpretability for a new taxonomy of language models based upon input-varying versus persistent residual stream writing.
 - Conducting research in representational priors for efficient language model training and implementing the strategies in the OpenAI Parameter Golf competition.
   - Currently extending and transferring this research further into another repo -> research-optimization-priors
 - Built a beginner ML deployment repository to help others learn the fundamentals of using open source tools for production-style ML. 
