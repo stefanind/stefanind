@@ -4,7 +4,7 @@ I work/study every day so that I can eventually become a Research Engineer.
 
 My Repos are split into 5 kinds of categories:  
 - ML systems projects  
-- AI/ML Research  
+- AI/ML research  
 - Building AI  
-- Open Source contributions  
+- Open source contributions  
 - Labs  
