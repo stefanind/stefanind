@@ -1,10 +1,10 @@
 I'm Stefan, and I love diving as deep as I can into AI/ML.  
 
-I work/study every day so that I can eventually become a Research Engineer.  
+My major interest is in inference, but I try to span all domains in AI at least a little. 
 
 My Repos are split into 5 kinds of categories:  
-- ML systems projects  
-- AI/ML research  
-- Building AI  
-- Open source contributions  
-- Labs  
+- llm inference
+- research
+- projects
+- open source (PyTorch)
+- labs  
